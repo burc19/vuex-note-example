@@ -8,7 +8,7 @@
       </b-button-group>
     </div>
 
-    
+    Test
     <div class="row align-items-center" >
       <h1>Ana sayfa</h1>
       <b-button-group>
